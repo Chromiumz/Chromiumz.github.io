@@ -1,3 +1,3 @@
 ### Example Github Page
 
-#**It exists**
+#It exists
